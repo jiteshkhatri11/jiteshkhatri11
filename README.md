@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Computer Science student passionate about software development and problem-solving<br>📚 Currently learning Data Structures & Algorithms, C++, and JavaScript<br>🚀 Focused on building real-world projects and improving coding skills<br>🎯 Interested in backend development and scalable systems<br>📈 On a journey to grow as a developer and contribute to meaningful projects
+💻 Computer Science student passionate about software development and problem-solving<br>📚 Currently learning Data Structures & Algorithms,Java, C++, and JavaScript<br>🚀 Focused on building real-world projects and improving coding skills<br>🎯 Interested in backend development and scalable systems<br>📈 On a journey to grow as a developer and contribute to meaningful projects
 
 
 # 💻 Tech Stack:
