@@ -1,9 +1,15 @@
-# 💫 About Me:
-💻 Computer Science student passionate about software development and problem-solving  
-📚 Learning Data Structures & Algorithms, Java, C++, and JavaScript  
-🚀 Building real-world projects and improving backend development skills  
-🎯 Interested in scalable systems and software engineering  
-📈 On a journey to become a strong software developer
+💫 About Me
+
+💻 Software Engineering student passionate about backend development, open source, and scalable systems
+
+🚀 Building real-world projects using Java, Spring Boot, JavaScript, and MySQL
+
+📚 Currently learning Data Structures & Algorithms, System Design, and Backend Engineering
+
+🔧 Open-source contributor and active learner exploring real-world software development practices
+
+🎯 Goal: Become a strong software engineer and build impactful products
+
 
 
 
