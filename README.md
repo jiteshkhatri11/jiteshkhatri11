@@ -1,14 +1,16 @@
 💫 About Me
 
-💻 Software Engineering student passionate about backend development, open source, and scalable systems
+💻 Software Engineering student with a strong focus on backend development, software architecture, and scalable systems.
 
-🚀 Building real-world projects using Java, Spring Boot, JavaScript, and MySQL
+🚀 Building real-world applications using Java, Spring Boot, JavaScript, and MySQL while applying industry-standard development practices.
 
-📚 Currently learning Data Structures & Algorithms, System Design, and Backend Engineering
+📚 Continuously expanding expertise in Data Structures & Algorithms, System Design, Database Management, and Backend Engineering.
 
-🔧 Open-source contributor and active learner exploring real-world software development practices
+🔧 Passionate about open-source contributions, problem-solving, and creating efficient, maintainable software solutions.
 
-🎯 Goal: Become a strong software engineer and build impactful products
+🌱 Committed to continuous learning and staying up to date with modern technologies and software development methodologies.
+
+🎯 Aspiring Software Engineer dedicated to building impactful products and delivering high-quality software that solves real-world challenges.
 
 
 
