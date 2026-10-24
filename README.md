@@ -90,39 +90,6 @@ Explore my work:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=jiteshkhatri11&theme=github_dark&hide_border=true&show_icons=true" height="165" alt="GitHub statistics" />
-  <img src="https://streak-stats.demolab.com/?user=jiteshkhatri11&theme=github_dark&hide_border=true" height="165" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jiteshkhatri11&theme=github_dark&hide_border=true&layout=compact" height="165" alt="Most-used programming languages" />
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jiteshkhatri11/jiteshkhatri11/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub contribution graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiteshkhatri11/jiteshkhatri11/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jiteshkhatri11/jiteshkhatri11/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/jiteshkhatri11/jiteshkhatri11/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-  </picture>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p>
