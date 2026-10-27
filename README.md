@@ -36,6 +36,7 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 ## 🛠️ Tech Stack
 
 ### Backend Development
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -43,11 +44,13 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 </p>
 
 ### Databases
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -56,6 +59,7 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 </p>
 
 ### Web Technologies & Tools
+
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
@@ -77,7 +81,7 @@ My interests include:
 - 🛠️ Writing clean, maintainable, and readable code
 - 🤝 Collaborating through pull requests, reviews, and technical discussions
 
-Explore my work:
+### Explore My Work
 
 <p>
   <a href="https://github.com/jiteshkhatri11?tab=repositories">
@@ -85,6 +89,63 @@ Explore my work:
   </a>
   <a href="https://github.com/jiteshkhatri11?tab=overview">
     <img src="https://img.shields.io/badge/Contributions-View-238636?style=for-the-badge&logo=github" alt="View contributions" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/jiteshkhatri11">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkhatri11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jiteshkhatri11&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
+</p>
+
+---
+
+## 🔀 Pull Requests & 🐛 Issues
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11">
+    <img src="https://img.shields.io/badge/All_Pull_Requests-View-238636?style=for-the-badge&logo=github" alt="All Pull Requests" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11+is%3Amerged">
+    <img src="https://img.shields.io/badge/Merged_Pull_Requests-View-2EA44F?style=for-the-badge&logo=github" alt="Merged Pull Requests" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">
+    <img src="https://img.shields.io/badge/Reported_Issues-View-8957E5?style=for-the-badge&logo=github" alt="Reported Issues" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jiteshkhatri11?tab=activity">
+    <img src="https://img.shields.io/badge/Recent_Activity-View-36BCF7?style=for-the-badge&logo=github" alt="Recent GitHub Activity" />
   </a>
 </p>
 
@@ -108,5 +169,5 @@ Explore my work:
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiteshkhatri11&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jiteshkhatri11&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
 </p>
