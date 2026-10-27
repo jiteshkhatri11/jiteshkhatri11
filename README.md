@@ -54,7 +54,7 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
@@ -73,15 +73,11 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 
 I enjoy contributing to open-source software and learning from real-world engineering practices.
 
-My interests include:
-
 - 🔍 Investigating bugs and understanding existing implementations
 - 🧩 Understanding software architecture and design decisions
 - 🧪 Improving testing and software reliability
 - 🛠️ Writing clean, maintainable, and readable code
 - 🤝 Collaborating through pull requests, reviews, and technical discussions
-
-### Explore My Work
 
 <p>
   <a href="https://github.com/jiteshkhatri11?tab=repositories">
@@ -111,7 +107,33 @@ My interests include:
 
 ---
 
+## 📈 Contribution Graph
 
+<p align="center">
+  <a href="https://github.com/jiteshkhatri11">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkhatri11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
+  </a>
+</p>
+
+---
+
+<!-- GITHUB-COUNTERS:START -->
+## 🚀 Open Source Impact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20PRs-INITIALIZING-36BCF7?style=for-the-badge&logo=github" alt="Total pull requests" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-INITIALIZING-238636?style=for-the-badge&logo=github" alt="Merged pull requests" />
+  <img src="https://img.shields.io/badge/Issues%20Authored-INITIALIZING-8957E5?style=for-the-badge&logo=github" alt="Issues authored" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11">View all PRs</a> ·
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11+is%3Amerged">View merged PRs</a> ·
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">View authored issues</a>
+</p>
+<!-- GITHUB-COUNTERS:END -->
+
+---
 
 ## 🔀 Pull Requests & 🐛 Issues
 
@@ -124,12 +146,6 @@ My interests include:
   </a>
   <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">
     <img src="https://img.shields.io/badge/Reported_Issues-View-8957E5?style=for-the-badge&logo=github" alt="Reported Issues" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jiteshkhatri11?tab=activity">
-    <img src="https://img.shields.io/badge/Recent_Activity-View-36BCF7?style=for-the-badge&logo=github" alt="Recent GitHub Activity" />
   </a>
 </p>
 
