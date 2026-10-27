@@ -107,15 +107,7 @@ I enjoy contributing to open-source software and learning from real-world engine
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/jiteshkhatri11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkhatri11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
-  </a>
-</p>
-
----
 
 <!-- GITHUB-COUNTERS:START -->
 ## 🚀 Open Source Impact
