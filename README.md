@@ -111,23 +111,7 @@ My interests include:
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/jiteshkhatri11">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkhatri11&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" width="100%" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiteshkhatri11&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Profile Trophies" />
-</p>
-
----
 
 ## 🔀 Pull Requests & 🐛 Issues
 
