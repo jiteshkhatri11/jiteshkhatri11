@@ -1,36 +1,43 @@
-# 👋 Hi, I'm Jitesh Khatri
+<!-- ==================== NEON LIGHT HEADER ==================== -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B3D91,65:087EA4,100:36BCF7&height=240&section=header&text=Jitesh%20Khatri&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineering&descSize=16&descAlignY=58&stroke=36BCF7&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:071D49,45:087EA4,70:36BCF7,100:050816&height=250&section=header&text=Jitesh%20Khatri&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=JAVA%20%7C%20SPRING%20BOOT%20%7C%20BACKEND%20ENGINEERING&descSize=15&descAlignY=57&stroke=36BCF7&strokeWidth=2"
     width="100%"
-    alt="Jitesh Khatri — glowing blue backend developer banner"
+    alt="Jitesh Khatri neon blue header"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor;Building+Reliable+Backend+Systems" alt="Typing animation" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=60&lines=Backend+Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor;Building+Reliable+Backend+Systems"
+    alt="Animated neon introduction"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/jiteshkhatri11">
-    <img src="https://img.shields.io/badge/GitHub-jiteshkhatri11-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-jiteshkhatri11-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/jitesh-khatri-a05a4b314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn" />
   </a>
   <a href="mailto:jiteshkhatri990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+<!-- ==================== ABOUT ME ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=ABOUT+ME" alt="About Me heading" />
+</p>
 
 I'm a backend-focused software engineering student passionate about building reliable, maintainable, and scalable applications.
 
-I work with Java, Spring Boot, REST APIs, and relational databases, while strengthening my understanding of data structures, algorithms, software design, and system architecture.
+I work with Java, Spring Boot, REST APIs, and relational databases while strengthening my understanding of data structures, algorithms, software design, and system architecture.
 
 I also contribute to open-source projects, where I enjoy exploring existing codebases, investigating bugs, improving code quality, and developing maintainable solutions.
 
@@ -41,43 +48,51 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 
 ---
 
-## ⚡ Tech Stack
+<!-- ==================== NEON TECH STACK ==================== -->
 
-### Backend Development
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Apache Maven" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=TECH+STACK" alt="Tech Stack heading" />
 </p>
 
-### Databases
+### ⚡ Backend Development
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=36BCF7" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=36BCF7" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Apache_Maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=36BCF7" alt="Apache Maven" />
 </p>
 
-### Programming Languages
+### 🗄️ Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=36BCF7" alt="MySQL" />
 </p>
 
-### Web Technologies & Tools
+### 💻 Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=36BCF7" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=36BCF7" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=c%2B%2B&logoColor=36BCF7" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+### 🌐 Web Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="GitHub" />
 </p>
 
 ---
 
-## 🌍 Open Source
+<!-- ==================== OPEN SOURCE ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=OPEN+SOURCE" alt="Open Source heading" />
+</p>
 
 I enjoy contributing to open-source software and learning from real-world engineering practices.
 
@@ -89,99 +104,152 @@ I enjoy contributing to open-source software and learning from real-world engine
 
 <p align="center">
   <a href="https://github.com/jiteshkhatri11?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2F80ED?style=for-the-badge&logo=github" alt="Explore repositories" />
+    <img src="https://img.shields.io/badge/Explore_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="Explore repositories" />
   </a>
   <a href="https://github.com/jiteshkhatri11?tab=overview">
-    <img src="https://img.shields.io/badge/Contributions-View-238636?style=for-the-badge&logo=github" alt="View contributions" />
+    <img src="https://img.shields.io/badge/View_Contributions-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View contributions" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- ==================== GITHUB STATISTICS ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=GITHUB+STATISTICS" alt="GitHub Statistics heading" />
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=86400" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github"
+      alt="GitHub statistics"
+    />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true"
+      alt="Most used languages"
+    />
   </picture>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+<!-- ==================== CONTRIBUTION STREAK ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=45&lines=CONTRIBUTION+STREAK" alt="Contribution Streak heading" />
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true" />
-    <img src="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true"
+    />
+    <img
+      src="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true"
+      alt="GitHub contribution streak"
+    />
   </picture>
 </p>
 
 ---
 
-<!-- GITHUB-COUNTERS:START -->
-## 🚀 Open Source Impact
+<!-- ==================== OPEN SOURCE IMPACT ==================== -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20PRs-View%20on%20GitHub-36BCF7?style=for-the-badge&logo=github" alt="View total pull requests" />
-  <img src="https://img.shields.io/badge/Merged%20PRs-View%20on%20GitHub-238636?style=for-the-badge&logo=github" alt="View merged pull requests" />
-  <img src="https://img.shields.io/badge/Issues%20Authored-View%20on%20GitHub-8957E5?style=for-the-badge&logo=github" alt="View authored issues" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=OPEN+SOURCE+IMPACT" alt="Open Source Impact heading" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11">View all PRs</a> ·
-  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11+is%3Amerged">View merged PRs</a> ·
-  <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">View authored issues</a>
-</p>
-<!-- GITHUB-COUNTERS:END -->
-
----
-
-## 🔀 Pull Requests & 🐛 Issues
 
 <p align="center">
   <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11">
-    <img src="https://img.shields.io/badge/All_Pull_Requests-View-238636?style=for-the-badge&logo=github" alt="All Pull Requests" />
+    <img src="https://img.shields.io/badge/Total_PRs-View_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View all pull requests" />
   </a>
   <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11+is%3Amerged">
-    <img src="https://img.shields.io/badge/Merged_Pull_Requests-View-2EA44F?style=for-the-badge&logo=github" alt="Merged Pull Requests" />
+    <img src="https://img.shields.io/badge/Merged_PRs-View_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View merged pull requests" />
   </a>
   <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">
-    <img src="https://img.shields.io/badge/Reported_Issues-View-8957E5?style=for-the-badge&logo=github" alt="Reported Issues" />
+    <img src="https://img.shields.io/badge/Issues_Authored-View_on_GitHub-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="View authored issues" />
   </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+<!-- ==================== PULL REQUESTS & ISSUES ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=PULL+REQUESTS+%26+ISSUES" alt="Pull Requests and Issues heading" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11">
+    <img src="https://img.shields.io/badge/All_Pull_Requests-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="All pull requests" />
+  </a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Ajiteshkhatri11+is%3Amerged">
+    <img src="https://img.shields.io/badge/Merged_Pull_Requests-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="Merged pull requests" />
+  </a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Ajiteshkhatri11">
+    <img src="https://img.shields.io/badge/Reported_Issues-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7" alt="Reported issues" />
+  </a>
+</p>
+
+---
+
+<!-- ==================== CONNECT ==================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=45&lines=LET%27S+CONNECT" alt="Let's Connect heading" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jitesh-khatri-a05a4b314/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=36BCF7" alt="LinkedIn" />
   </a>
   <a href="mailto:jiteshkhatri990@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Get_in_Touch-0D1117?style=for-the-badge&logo=gmail&logoColor=36BCF7" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Great software is built through curiosity, consistency, and continuous improvement."</i>
+  <i>“Great software is built through curiosity, consistency, and continuous improvement.”</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiteshkhatri11&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jiteshkhatri11&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
+<!-- ==================== NEON LIGHT FOOTER ==================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:087EA4,100:050816&height=100&section=footer" width="100%" alt="Blue glowing footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,25:087EA4,60:071D49,100:050816&height=140&section=footer&stroke=36BCF7&strokeWidth=1"
+    width="100%"
+    alt="Neon blue footer"
+  />
 </p>
