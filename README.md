@@ -94,12 +94,6 @@ I enjoy contributing to open-source software and learning from real-world engine
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF" alt="Most Used Languages" />
-</p>
 
 ---
 
