@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Jitesh Khatri
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor;Building+Reliable+Backend+Systems" alt="Typing animation" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:0B3D91,65:087EA4,100:36BCF7&height=240&section=header&text=Jitesh%20Khatri&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Spring%20Boot%20%7C%20Backend%20Engineering&descSize=16&descAlignY=58&stroke=36BCF7&strokeWidth=1"
+    width="100%"
+    alt="Jitesh Khatri — glowing blue backend developer banner"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Backend+Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor;Building+Reliable+Backend+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -33,7 +41,7 @@ I also contribute to open-source projects, where I enjoy exploring existing code
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 ### Backend Development
 
@@ -79,7 +87,7 @@ I enjoy contributing to open-source software and learning from real-world engine
 - 🛠️ Writing clean, maintainable, and readable code
 - 🤝 Collaborating through pull requests, reviews, and technical discussions
 
-<p>
+<p align="center">
   <a href="https://github.com/jiteshkhatri11?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-Explore-2F80ED?style=for-the-badge&logo=github" alt="Explore repositories" />
   </a>
@@ -93,8 +101,16 @@ I enjoy contributing to open-source software and learning from real-world engine
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=86400" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=jiteshkhatri11&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkhatri11&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+  </picture>
 </p>
 
 ---
@@ -102,20 +118,22 @@ I enjoy contributing to open-source software and learning from real-world engine
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=jiteshkhatri11&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+  </picture>
 </p>
 
 ---
-
-
 
 <!-- GITHUB-COUNTERS:START -->
 ## 🚀 Open Source Impact
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20PRs-INITIALIZING-36BCF7?style=for-the-badge&logo=github" alt="Total pull requests" />
-  <img src="https://img.shields.io/badge/Merged%20PRs-INITIALIZING-238636?style=for-the-badge&logo=github" alt="Merged pull requests" />
-  <img src="https://img.shields.io/badge/Issues%20Authored-INITIALIZING-8957E5?style=for-the-badge&logo=github" alt="Issues authored" />
+  <img src="https://img.shields.io/badge/Total%20PRs-View%20on%20GitHub-36BCF7?style=for-the-badge&logo=github" alt="View total pull requests" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-View%20on%20GitHub-238636?style=for-the-badge&logo=github" alt="View merged pull requests" />
+  <img src="https://img.shields.io/badge/Issues%20Authored-View%20on%20GitHub-8957E5?style=for-the-badge&logo=github" alt="View authored issues" />
 </p>
 
 <p align="center">
@@ -145,7 +163,7 @@ I enjoy contributing to open-source software and learning from real-world engine
 
 ## 📫 Let's Connect
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/jitesh-khatri-a05a4b314/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -162,4 +180,8 @@ I enjoy contributing to open-source software and learning from real-world engine
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jiteshkhatri11&style=flat-square&color=36BCF7&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:087EA4,100:050816&height=100&section=footer" width="100%" alt="Blue glowing footer" />
 </p>
